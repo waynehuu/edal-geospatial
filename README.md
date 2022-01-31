@@ -29,6 +29,7 @@
 - `geopandas`
 
 ### Example:
+- [Convert polygon's pixel coordinates to geospatial coordinates](geo-coding/geo_coding.ipynb)
 - `register_to_tile()` in [`generatePolygons.py`](geo-coding/generatePolygons.py)
 
 ## Rasterization and vectorization
