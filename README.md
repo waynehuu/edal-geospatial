@@ -21,9 +21,10 @@
 - `matplotlib's Basemap`: not recommended, has been depreciated and replaced by `cartopy`
 ### Example:
 - [Plot sampling locations of Connecticut annotated tiles on Connecticut town-level map](geospatial-plotting/geospatial-plotting.ipynb)
+- [Plot density map of solar PV panel area at any resolution](https://github.com/energydatalab/mrs/blob/main/solarmapper_demo/results_eval_and_viz/ct_municipality_level_analysis.ipynb)
 
 ## Geo-coding
-### Use case: Add geospatial coordinates to uncoded points/polygons/any other shapes in an image using know corner coordinates of the image as the reference
+### Use case: Convert pixel coordinates of polygons/points/lines to geospatial coordinates
 ### Useful package: 
 - `geopandas`
 
